@@ -3,6 +3,8 @@ MTT Basics poker quiz and tournament strategy training app for Android. Shove/Fo
 
 Check here for more info: https://whalestacks.github.io/mtt-basics/
 
+FREE DOWNLOAD ON GOOGLE PLAY: https://play.google.com/store/apps/details?id=com.whalestacks.www.pokertrainer
+
 ```
 App name: MTT Basics
 System: Android [target API: 28(Pie 9); min API: 24(Nougat 7.0)

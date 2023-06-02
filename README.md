@@ -5,7 +5,7 @@ Check here for more info: https://whalestacks.github.io/mtt-basics/
 
 FREE DOWNLOAD ON GOOGLE PLAY: https://play.google.com/store/apps/details?id=com.whalestacks.www.pokertrainer
 
-```
+
 App name: MTT Basics
 System: Android [target API: 28(Pie 9); min API: 24(Nougat 7.0)
 Built: March - July 2020 by Jeremiah Moore with Android Studio, Java
@@ -23,7 +23,7 @@ To Use:
 3. Press the position button corresponding to your position at the poker table. *Always count from the BTN to determine your table position (ex: we would use LJ as UTG in 6 handed game, UTG1 as UTG in a 9 handed game)
 Displays a range of hands, and percentage of hands to go all in with using standard hand matrix display.
 
-
+```
 Resources: Red Chip Poker, ICMizer, SnapShove, Equilab, PokerStove, PioSolver, pokercoaching.com
 ```
 
